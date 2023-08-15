@@ -8,11 +8,9 @@
 ###  Professional Side:
 
 ### My Work and projects
-   *
-   *
-   *
-   *
-   *
+   * Movie website using react js
+   * Weather website using react js
+   * Ecommerce product page using react js
 ### Company Site 
     🔗 
     
