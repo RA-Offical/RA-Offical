@@ -18,7 +18,7 @@
     🔗 
 
 ### Technologies I am working with:      
-    👉	Front End
+    👉Front End
             HTML5
             CSS 
             Bootstrap 5
