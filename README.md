@@ -17,7 +17,7 @@
 ### Portfolio    
     🔗 
 
-### Technologies I am working with:       
+### Technologies I am working with:      
     👉	Front End
             HTML5
             CSS 
@@ -38,7 +38,7 @@
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RA-Offical)  
 <br/>
- ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=RA-Offical)
+![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=RA-Offical)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=RA-Offical)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RA-Offical&show_icons=true&theme=dark)  
 ![GitHub metrics](https://metrics.lecoq.io/RA-Offical)  
