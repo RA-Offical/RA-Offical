@@ -11,11 +11,11 @@
 
 
   
-  - 🌱 I’m currently learning **Material UI Framework**
-  
-  - 💬 Ask me about **Javascript, React**
-  
-  - 📫 How to reach me **r.ameer.offical@gmail.com**
+- 🌱 I’m currently learning **Material UI Framework**
+
+- 💬 Ask me about **Javascript, React**
+
+- 📫 How to reach me **r.ameer.offical@gmail.com**
 
 
 
