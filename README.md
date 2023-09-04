@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra-offical&label=Profile%20views&color=0e75b6&style=flat" alt="ra-offical" /> </p>
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   
 <p style="flex:1;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="600" src="https://github-profile-trophy.vercel.app/?username=ra-offical" alt="ra-offical" /></a> 
 <img  width="300" alt="coding gif" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
