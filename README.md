@@ -8,7 +8,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="600" src="https://github-profile-trophy.vercel.app/?username=ra-offical" alt="ra-offical" /></a> 
-<img   alt="coding gif" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img  width="300" align="center" alt="coding gif" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 </p>
 </div>
 
