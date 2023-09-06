@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **r.ameer.offical@gmail.com**
 
----
 
-<br>
 
 <div>
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +21,8 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/rashid-ameer-b30aa6241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rashid-ameer-b30aa6241" height="30" width="40" /></a>
 </p>
 </div>
----
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -75,6 +74,8 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
  </p>
+
+ <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra-offical&show_icons=true&locale=en" alt="ra-offical" /></p>
 
