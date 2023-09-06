@@ -25,7 +25,7 @@
                 React.Js with Redux Toolkit
     👉  Databases
 	    * MySQL Community Server
-            * MongoDB Server for NoSQL Document-based Projects
+     	    * MongoDB Server for NoSQL Document-based Projects
     👉  Version Control
             Github
     👉  Development IDEs
