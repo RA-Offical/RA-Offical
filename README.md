@@ -13,7 +13,27 @@
 
 - 📫 How to reach me **r.ameer.offical@gmail.com**
 
+### Portfolio    
+    🔗 
 
+### Technologies I am working with:
+    👉	Front End
+            HTML5
+            CSS ======> SASS Framework
+            Bootstrap 5
+            Javascript
+                React.Js with Redux Toolkit
+
+    👉	Databases
+            * MySQL Community Server
+            * MongoDB Server for NoSQL Document-based Projects
+    👉  Version Control
+            Github
+    👉  Development IDEs
+            JetBrains IntelliJ Idea (Community Edition)
+            Visual Studio Code
+    👉  APIs Testing Tools
+            Postman Client
 
 <div>
 <h3 align="left">Connect with me:</h3>
