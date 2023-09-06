@@ -6,7 +6,7 @@
 
 
   
-- 🌱 I’m currently learning **Material UI Framework**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 💬 Ask me about **Javascript, React**
 
