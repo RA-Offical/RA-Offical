@@ -22,8 +22,7 @@
 </p>
 </div>
 
-<br>
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -77,7 +76,7 @@
 </a>
  </p>
 
- <br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra-offical&show_icons=true&locale=en" alt="ra-offical" /></p>
 
