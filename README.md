@@ -17,15 +17,14 @@
     🔗 
 
 ### Technologies I am working with:
-    👉	Front End
+    👉  Front End
             HTML5
             CSS ======> SASS Framework
             Bootstrap 5
             Javascript
                 React.Js with Redux Toolkit
-
-    👉	Databases
-            * MySQL Community Server
+    👉  Databases
+	    * MySQL Community Server
             * MongoDB Server for NoSQL Document-based Projects
     👉  Version Control
             Github
