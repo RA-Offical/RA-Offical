@@ -7,7 +7,7 @@
 
 
   
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **Javascript, React**
 
