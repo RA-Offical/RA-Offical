@@ -7,7 +7,7 @@
 
 
   
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Javascript, React**
 
