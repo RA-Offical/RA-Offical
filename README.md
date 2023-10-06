@@ -14,7 +14,7 @@
 - 📫 How to reach me **r.ameer.offical@gmail.com**
 
 ### Portfolio    
-    🔗 <a href="https://rashidameer.netlify.app/" target="_blank">https://rashidameer.netlify.app</a>
+    🔗 <p><a href="https://rashidameer.netlify.app/" target="_blank">https://rashidameer.netlify.app</a></p>
 
 ### Technologies I am working with:
     👉  Front End
