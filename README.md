@@ -7,7 +7,7 @@
 
 
   
-- 🌱 I’m currently learning **Redux toolkit**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Javascript, React js**
 
