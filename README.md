@@ -7,7 +7,7 @@
 
 
   
-- 🌱 I’m currently learning **Next.js and Typescript**
+- 🌱 I’m currently learning **Beckend**
 
 - 💬 Ask me about **Javascript, React js**
 
@@ -21,9 +21,11 @@
     👉  Front End
             HTML5
             CSS ======> SASS Framework
-            Bootstrap 5
+            Tailwind Css
             Javascript
-                React.Js with Redux Toolkit
+                React js with Redux Toolkit
+		Next.js
+	    Typescript
     👉  Databases
 	    * MySQL Community Server
  	    * MongoDB Server for NoSQL Document-based Projects
@@ -34,6 +36,7 @@
             Visual Studio Code
     👉  APIs Testing Tools
             Postman Client
+
 
 <div>
 <h3 align="left">Connect with me:</h3>
