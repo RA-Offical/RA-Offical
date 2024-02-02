@@ -25,7 +25,7 @@
             Javascript
                 React js with Redux Toolkit
 		Next.js
-	    Typescript
+  		Typescript
     👉  Databases
 	    * MySQL Community Server
  	    * MongoDB Server for NoSQL Document-based Projects
