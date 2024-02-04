@@ -7,7 +7,7 @@
 
 
   
-- 🌱 I’m currently learning **Beckend**
+- 🌱 I’m currently learning **Beckend: Node.js**
 
 - 💬 Ask me about **Javascript, React js**
 
